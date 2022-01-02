@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.spinner 
+{
+    position: absolute;
+}
+
+
+.bg-orange-100 { background-color: #fffaf0; }
+.bg-orange-200 { background-color: #feebc8; }
+.bg-orange-300 { background-color: #fbd38d; }
+.bg-orange-400 { background-color: #f6ad55; }
+.bg-orange-500 { background-color: #ed8936; }
+.bg-orange-600 { background-color: #dd6b20; }
+.bg-orange-700 { background-color: #c05621; }
+.bg-orange-800 { background-color: #9c4221; }
+.bg-orange-900 { background-color: #7b341e; }
+
+
+.text-gray-900 { color: #1a202c; }
